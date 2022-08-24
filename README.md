@@ -1,7 +1,7 @@
 # Resume Screening Using NLP
 
 
-The task here is to select top 5 resumes/people based on their resume for a particular Job posting. 
+The Project is to select top 5 resumes/people based on their resume for a particular Job posting. 
 
 Step 1: Extract all the relevant keywords related to the job post from job description, and create a keyword dictionary - ds_keywords.ipynb
 
